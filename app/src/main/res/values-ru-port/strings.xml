@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrientLocaleDemo</string>
+    <string name="def_port">Портретный режим</string>
+</resources>
